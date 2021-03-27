@@ -1,0 +1,1 @@
+[21-Jan-2019 00:14:34 America/Mexico_City] PHP Fatal error:  Class 'ConexionMYSql' not found in /home/orwareco/public_html/barbcloud/includes/clase_configuracion.php on line 5

@@ -1,0 +1,40 @@
+body{
+  background-color: #120714;
+   padding-top: 70px;
+}
+.titulo{
+  background-color: #222 !important;
+  color: #fff;
+}
+.texto_entrada{
+  color: white;
+}
+.alinear_centro{
+  text-align: center;
+}
+.alinear_derecha{
+  text-align: right;
+}
+.separador{
+  border: 5px white solid;
+}
+.completo{
+  width: 100%;
+  height: 120%;
+
+}
+.no-margen{
+  margin: .1em;
+  height: 2.5em;
+  line-height: .5em;
+}
+a:link
+{
+text-decoration:none;
+}
+.margen_inf{
+  margin-bottom:10px;
+}
+.hide {
+	display:none;
+}
